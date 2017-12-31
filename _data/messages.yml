@@ -38,3 +38,15 @@ locales:
     share: "Partager sur"
   fr_FR:
     <<: *DEFAULT_FR      # use French translation for fr_FR
+
+  # Chinese translation
+  # -------------------
+  zh: &DEFAULT_ZH
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "总览"
+    toc: "目录"
+    written_by: "编写者"
+    updated: "更新"
+    share: "分享"
+  zh_CN:
+    <<: *DEFAULT_ZH     # use Chinese translation for zh_CN
