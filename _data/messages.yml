@@ -42,10 +42,10 @@ locales:
   # Chinese translation
   # -------------------
   zh: &DEFAULT_ZH
-    <<: *DEFAULT_EN     # load English values as default
+    <<: *DEFAULT_ZH     # load Chinese values as default
     overview: "总览"
     toc: "目录"
-    written_by: "编写者"
+    written_by: "作者"
     updated: "更新"
     share: "分享"
   zh_CN:
