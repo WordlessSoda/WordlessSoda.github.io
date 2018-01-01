@@ -3,19 +3,19 @@
 - title: 学习笔记
   url: /notes/
   excerpt: "学习记录"
-  image:
+  image: notes.jpg
 
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: "信息可视化作品展示"
-  image:
+  image: infovis.jpg
 
 - title: 网页作品集
   url: /portfolio/
   excerpt: "网页设计作品展示"
-  image:
+  image: webdesign.jpg
 
-- title: 联系
+- title: 关于我
   url: /contact/
-  excerpt: "联系我"
-  image:
+  excerpt: "联系"
+  image: loding.gif
