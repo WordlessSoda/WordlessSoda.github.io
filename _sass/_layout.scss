@@ -71,11 +71,14 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background-color: $Tomato;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
+			}
+			&:hover {
+				color : $Tomato
 			}
 		}
 	}
