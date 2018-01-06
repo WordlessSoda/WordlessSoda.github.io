@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学习笔记"
+title: "信息可视化笔记"
 date: 2018-01-01
 modified:
 excerpt: ""
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.notes %}
+{% for post in site.categories.posts_infovis %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 notes 的列出来-->
+</div><!-- /.tiles 把所有categories 有 posts_infovis 的列出来-->

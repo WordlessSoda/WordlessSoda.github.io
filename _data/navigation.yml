@@ -1,9 +1,14 @@
 # Site navigation links
 
-- title: 学习笔记
-  url: /notes/
-  excerpt: "学习记录"
-  image: notes.jpg
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "信息可视化学习记录"
+  image: global.jpg
+
+- title: 网页设计笔记
+  url: /posts/rwd/
+  excerpt: "网页设计与制作学习记录"
+  image: html_css.jpg
 
 - title: 信息可视化作品集
   url: /infovis/
@@ -13,9 +18,9 @@
 - title: 网页作品集
   url: /portfolio/
   excerpt: "网页设计作品展示"
-  image: webdesign.jpg
+  image: web_design.jpg
 
 - title: 关于我
-  url: /contact/
+  url: /posts/contact/
   excerpt: "联系我"
   image: loding.gif
