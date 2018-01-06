@@ -14,4 +14,4 @@ image :
 选取城镇居民和各类型消费水平数据，通过tableau将数据可视化，分析其关系和得出结论。
 
 ### 网页链接
-[小组期中信息可视化作业](/term_project.html)
+[小组期中信息可视化作业](/infovis/term_project.html)
