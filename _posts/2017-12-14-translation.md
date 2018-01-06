@@ -2,7 +2,7 @@
 layout : article
 title : "小组翻译"
 data : 2017-12-14
-categories : notes
+categories : rwd
 image :
   teaser: translation.png
   feature:

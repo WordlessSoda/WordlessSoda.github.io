@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "数据可视化作品集"
+title: "信息可视化作品集"
 date: 2018-01-01
 modified:
 excerpt: ""

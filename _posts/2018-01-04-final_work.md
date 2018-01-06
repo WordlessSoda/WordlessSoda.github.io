@@ -1,10 +1,10 @@
 ---
 layout : article
-title : "期末数据可视化作业"
+title : "期末信息可视化作业"
 data : 2018-01-04
 categories : infovis
 image :
-  teaser: tableau.png
+  teaser: world_map.jpg
   feature:
 ---
 {% include toc.html %}
@@ -14,6 +14,9 @@ image :
 - 关键词:```天猫```，```京东```，```国美```，```苏宁```
 - 数据量：3k
 
+---
+
+---
 <div class='tableauPlaceholder' id='viz1515084019983' style='position: relative'>
       <noscript><a href='#'><img alt='数据分析 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18149&#47;sheet4&#47;1_rss.png' style='border: none' /></a>
       </noscript>
