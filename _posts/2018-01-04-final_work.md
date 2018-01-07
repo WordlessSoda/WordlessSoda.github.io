@@ -1,7 +1,7 @@
 ---
 layout : article
 title : "期末信息可视化作业"
-data : 2018-01-04
+data : 2018-01-07
 categories : infovis
 image :
   teaser: world_map.jpg
@@ -9,6 +9,8 @@ image :
 ---
 {% include toc.html %}
 ---
+
+# 对中国四大家电销售商在中国市场的数据比较分析
 
 ## 利用高德地图API的搜索服务，用python抓取数据，在Tableau筛选数据后进行信息可视化的作品。
 - 关键词:```天猫```，```京东```，```国美```，```苏宁```
