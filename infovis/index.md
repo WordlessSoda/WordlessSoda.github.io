@@ -9,7 +9,11 @@ image:
   feature:
   teaser:
 ---
+![期末信息可视化作业](/images/final_work.png)
 
+在此展示作品
+
+---
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}

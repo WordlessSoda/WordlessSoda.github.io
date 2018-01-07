@@ -6,10 +6,10 @@ modified:
 excerpt: ""
 tags: []
 image:
-  feature:
+  feature: loding.gif
   teaser:
 ---
 
-### 这里并没有什么东西哦 =w=
+### 诶，这里什么都没有呢 (⊙ω⊙)
 
 >少女祈祷中......

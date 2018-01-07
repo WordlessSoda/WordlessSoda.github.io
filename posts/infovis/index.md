@@ -6,10 +6,12 @@ modified:
 excerpt: ""
 tags: []
 image:
-  feature:
+  feature: global.jpg
   teaser:
 ---
+在此展示笔记
 
+---
 <div class="tiles">
 {% for post in site.categories.posts_infovis %}
   {% include post-grid.html %}
