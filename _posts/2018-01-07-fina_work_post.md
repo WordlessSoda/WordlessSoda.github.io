@@ -9,6 +9,7 @@ image :
 ---
 {% include toc.html %}
 ---
+
 # 期末信息可视化笔记
 
 利用高德地图的搜索服务API，用Python抓取数据，在Tableau筛选数据后进行信息可视化的作品。
