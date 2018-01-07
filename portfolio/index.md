@@ -9,9 +9,6 @@ image:
   feature: web_design.jpg
   teaser:
 ---
-在此展示作品
-
----
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}

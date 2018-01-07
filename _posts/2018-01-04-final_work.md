@@ -15,7 +15,7 @@ image :
 - 数据量：3k+
 
 > #### 在筛选器中勾选可选择多个不同的视图。
-> -若在网页内显示不正常请点击此 [Tablea public](https://public.tableau.com/views/_18149/sheet4?:embed=y&:display_count=yes&publish=yes)
+> - 若在网页内显示不正常请点击此 [Tablea public](https://public.tableau.com/views/_18149/sheet4?:embed=y&:display_count=yes&publish=yes)
 
 信息可视化作品展示如下
 ---
