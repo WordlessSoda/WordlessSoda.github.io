@@ -7,7 +7,8 @@ image :
   teaser: translation.png
   feature:
 ---
-###### WSG4_12 小组翻译作业
+WSG4_12 小组翻译作业
+{% include toc.html %}
 ---
 
 p.329

@@ -7,6 +7,7 @@ image :
   teaser: world_map.jpg
   feature:
 ---
+基于国家数据网数据的小组期中信息可视化作业
 {% include toc.html %}
 ---
 

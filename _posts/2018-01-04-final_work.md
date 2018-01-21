@@ -7,6 +7,7 @@ image :
   teaser: world_map.jpg
   feature:
 ---
+基于高德地图数据的期末信息可视化作业
 {% include toc.html %}
 ---
 

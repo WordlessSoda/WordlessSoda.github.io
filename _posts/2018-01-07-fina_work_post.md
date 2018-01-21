@@ -7,6 +7,7 @@ image :
   teaser: notes.jpg
   feature:
 ---
+期末信息可视化作业的制作记录
 {% include toc.html %}
 ---
 
