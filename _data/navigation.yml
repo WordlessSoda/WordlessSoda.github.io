@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: 文章
+  url: /posts/article/
+  excerpt: "文章笔记"
+  image: article.jpg
+
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: "信息可视化学习记录"
